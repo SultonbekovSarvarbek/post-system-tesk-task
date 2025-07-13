@@ -144,6 +144,7 @@ const closeModal = () => {
 
   &__content {
     background: #171717;
+    border: 1px solid #2E2E2E;
     border-radius: 8px;
     width: 100%;
     max-width: 480px;
